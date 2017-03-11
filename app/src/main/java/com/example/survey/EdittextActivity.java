@@ -37,7 +37,8 @@ public class EdittextActivity extends AppCompatActivity {
     }
 
     public void button_edit(View v){
-        int number = Integer.parseInt(editText.getText().toString());
+        int number = -1;
+        if(!editText.getText().toString().equals(""))number = Integer.parseInt(editText.getText().toString());
         if(number >= 0 && number <= 10){
             if(index == 5){
                 int pos;

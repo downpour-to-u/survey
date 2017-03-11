@@ -26,77 +26,100 @@
                 android:text="CheckBox"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/checkBox_1" />
+                android:id="@+id/checkBox_1"
+                android:textSize="18sp" />
 
             <CheckBox
                 android:text="CheckBox"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/checkBox_2" />
+                android:id="@+id/checkBox_2"
+                android:textSize="18sp"
+                android:layout_marginTop="5dp" />
 
             <CheckBox
                 android:text="CheckBox"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/checkBox_3" />
+                android:id="@+id/checkBox_3"
+                android:textSize="18sp"
+                android:layout_marginTop="5dp" />
 
             <CheckBox
                 android:text="CheckBox"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/checkBox_4" />
+                android:id="@+id/checkBox_4"
+                android:textSize="18sp"
+                android:layout_marginTop="5dp" />
 
             <CheckBox
                 android:text="CheckBox"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/checkBox_5" />
+                android:id="@+id/checkBox_5"
+                android:textSize="18sp"
+                android:layout_marginTop="5dp" />
 
             <CheckBox
                 android:text="CheckBox"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/checkBox_6" />
+                android:id="@+id/checkBox_6"
+                android:textSize="18sp"
+                android:layout_marginTop="5dp" />
 
             <CheckBox
                 android:text="CheckBox"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/checkBox_7" />
+                android:id="@+id/checkBox_7"
+                android:textSize="18sp"
+                android:layout_marginTop="5dp" />
 
             <CheckBox
                 android:text="CheckBox"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/checkBox_8" />
+                android:id="@+id/checkBox_8"
+                android:textSize="18sp"
+                android:layout_marginTop="5dp" />
 
             <CheckBox
                 android:text="CheckBox"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/checkBox_9" />
+                android:id="@+id/checkBox_9"
+                android:textSize="18sp"
+                android:layout_marginTop="5dp" />
 
             <CheckBox
                 android:text="CheckBox"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/checkBox_10" />
+                android:id="@+id/checkBox_10"
+                android:textSize="18sp"
+                android:layout_marginTop="5dp" />
 
             <CheckBox
                 android:text="CheckBox"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/checkBox_11" />
+                android:id="@+id/checkBox_11"
+                android:textSize="18sp"
+                android:layout_marginTop="5dp" />
+
+            <Button
+                android:text="next"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/button_last"
+                android:background="@color/colorPrimaryDark"
+                android:textColor="@android:color/background_light"
+                android:textSize="24sp"
+                android:onClick="button_last"
+                android:layout_marginTop="50dp" />
         </LinearLayout>
     </ScrollView>
 
-    <Button
-        android:text="next"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/button_last"
-        android:background="@color/colorPrimaryDark"
-        android:textColor="@android:color/background_light"
-        android:textSize="24sp"
-        android:onClick="button_last"/>
 </LinearLayout>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Survey</string>
+    <string name="app_name">Psychological test</string>
     <string name="exception_clause">The content provided in this application can not be guaranteed and assured to be accurate, appropriate for all, and complete by Kayla, and Kayla can not be held responsible for any error or negligence derived therefrom.</string>
     <string name="btn_read">already finish reading!</string>
     <string name="Q1">Situation: You are in a deep forest. as you walk on you saw an old hut standing there.\nWhat is the status of the door?</string>
