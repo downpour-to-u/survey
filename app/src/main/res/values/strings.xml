@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">Survey</string>
+    <string name="exception_clause">The content provided in this application can not be guaranteed and assured to be accurate, appropriate for all, and complete by Kayla, and Kayla can not be held responsible for any error or negligence derived therefrom.</string>
+    <string name="btn_read">already finish reading!</string>
+    <string name="Q1">Situation: You are in a deep forest. as you walk on you saw an old hut standing there.\nWhat is the status of the door?</string>
+    <string-array name="A1">
+        <item>Opened</item>
+        <item>Closed</item>
+    </string-array>
+    <string-array name="R1">
+        <item>The door: Opened door - you are a person who is willing to share.</item>
+        <item>The door: Closed door - you are a person who is keeping things to yourself.</item>
+    </string-array>
+    <string name="Q2">You enter the hut and see a table. What is the shape of the table? </string>
+    <string-array name="A2">
+        <item>Round</item>
+        <item>Oval</item>
+        <item>Square</item>
+        <item>Rectangle</item>
+        <item>Triangle</item>
+    </string-array>
+    <string-array name="R2">
+        <item>The table: Round - any friends that came along, you will accept and trust them completely.</item>
+        <item>The table: Oval - any friends that came along, you will accept and trust them completely.</item>
+        <item>The table: Square - you are a bit more choosy on friends and only hang out with those whom you think are on the same frequency.</item>
+        <item>The table: Rectangle - you are a bit more choosy on friends and only hang out with those whom you think are on the same frequency.</item>
+        <item>The table: Triangle - you are really very picky about friends and there are not many friends in your life.</item>
+    </string-array>
+    <string name="Q3">On top of the table there is a vase. in the vase there is water. How much water is it filled up with?</string>
+    <string-array name="A3">
+        <item>Full</item>
+        <item>Half</item>
+        <item>Empty</item>
+    </string-array>
+    <string-array name="R3">
+        <item>Water in vase: Empty - your life is not fulfilled.</item>
+        <item>Water in vase: Half filled - what you want in your life is half fulfilled.</item>
+        <item>Water in vase: Full - your life is completely fulfilled and good for you! :)</item>
+    </string-array>
+    <string name="Q4">And what is the vase made of?</string>
+    <string-array name="A4">
+        <item>Glass/Porcelain/Clay</item>
+        <item>Metal/Plastic/Wood</item>
+    </string-array>
+    <string-array name="R4">
+        <item>Material of vase: glass/clay/porcelain - you are weak in your life and tends to be fragile.</item>
+        <item>Material of vase: metal/plastic/wood - you are strong in your life.</item>
+    </string-array>
+    <string name="Q5">You walk out of the hut. as you carry on your walk in the forest. you see a waterfall from far. there is water running down.What is the speed of the water?(Choose a number ranging from 0 to 10)</string>
+    <string-array name="R5">
+        <item>Flow of waterfall: 0 - no sex drive at all.</item>
+        <item>Flow of waterfall: 1 to 4 - low sex drive.</item>
+        <item>Flow of waterfall: 5 - average sex drive.</item>
+        <item>Flow of waterfall: 6 to 9 - high sex drive.</item>
+        <item>Flow of waterfall: 10 - gone case!!! super high sex drive!!! Can’t live without sex.</item>
+    </string-array>
+    <string name="Q6">Some time after the waterfall. you step on something hard on the ground. as you look down. you see glistening gold in colour. You bend down and pick it up. it is a keychain chained with keys. How many key /keys you see hanging on the keychain?   (Choose a number ranging from 1 to 10)</string>
+    <string-array name="R6">
+        <item>Keys: 0 to 1 - you have one good friend in your life.</item>
+        <item>Keys: 2 to 5 - you have a few good friends in your life.</item>
+        <item>Keys: 6 to 10 - you have a lot good friends.</item>
+    </string-array>
+    <string name="Q7">You walk on and on. trying to find your way out.suddenly you see a castle. What is the condition of the castle?</string>
+    <string-array name="A7">
+        <item>Old</item>
+        <item>New</item>
+    </string-array>
+    <string-array name="R7">
+        <item>Castle: Old - shows that your last relationship is not a good one and is not memorable to you.</item>
+        <item>Castle: New - your last relationship is good and it’s still fresh in your heart.</item>
+    </string-array>
+    <string name="Q8">You enter the castle and saw a pool of murky water with shining jewels floating on it.Will you pick up the jewel?</string>
+    <string-array name="A8">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="R8">
+        <item>The jewel from the murky pool water: YES - when your partner is around you, you will flirt around with others.</item>
+        <item>The jewel from the murky pool water: NO - when your partner is around, you will stick around with him/her most of the time.</item>
+    </string-array>
+    <string name="Q9">Next to the murky pool. there’s another pool. with clear water and money floating on it. Will you pick the money?</string>
+    <string-array name="A9">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="R9">
+        <item>The money from the clear water pool:;YES - when your partner is not around you, you will still flirt around with others.</item>
+        <item>The money from the clear water pool: NO - even when your partner is not around, you will still think of her and will be loyal to him/her, not flirting around with others.</item>
+    </string-array>
+    <string name="Q10">Walking to the end of the castle there is an exit.you proceed to walk out of the castle. Outside the exit, there is big garden, you see a box on the ground. What is the size of the box?</string>
+    <string-array name="A10">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Big</item>
+    </string-array>
+    <string-array name="R10">
+        <item>The size of the box: small - low ego.</item>
+        <item>The size of the box: medium - average ego.</item>
+        <item>The size of the box: big - high ego.</item>
+    </string-array>
+    <string name="Q11">There is a bridge in the garden some distance away from the box, What is the bridge made of?</string>
+    <string-array name="A11">
+        <item>Metal</item>
+        <item>Wooden</item>
+        <item>Rattan</item>
+    </string-array>
+    <string-array name="R11">
+        <item>Metal bridge - have very strong bond with your friends.</item>
+        <item>Wooden bridge - average bond with your friends.</item>
+        <item>Rattan bridge - you are not in good terms with your friends.</item>
+    </string-array>
+    <string name="Q_comment">The following is your test results. Which option do you think is accurate?</string>
+</resources>
